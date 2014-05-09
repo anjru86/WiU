@@ -1,6 +1,7 @@
 
 /*-------------------------------------------  general -------------------------------------------------------*/
 body{
+	background:linear-gradient(0deg,  #ffffff 15%,#7db9e8 100%); /* W3C */;
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
 	color:#545257; /*changes color of the whole text*/
